@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "875044313118",
+    "project_id": "jesus-rosas-apitest",
+    "storage_bucket": "jesus-rosas-apitest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875044313118:android:053cc70eb0a3e5c032f60f",
+        "android_client_info": {
+          "package_name": "jesus.rosas.apitest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875044313118-msarb4rsei64h70n9snb3dm3cuaqf83f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jesus.rosas.apitest",
+            "certificate_hash": "585e0513b8e9bdb3fdb676d2f73b1939a4503a2a"
+          }
+        },
+        {
+          "client_id": "875044313118-pjlgb4ltp67hat1n1nlvjjc2brlu30ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3LotUSYgXIs3crnBheE4U-t5IvBVtaIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875044313118-pjlgb4ltp67hat1n1nlvjjc2brlu30ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
